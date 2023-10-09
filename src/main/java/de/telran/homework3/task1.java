@@ -28,3 +28,5 @@ public class task1 {
 //Например:
 //ввод - mama, papa
 //вывод - mapa
+
+
