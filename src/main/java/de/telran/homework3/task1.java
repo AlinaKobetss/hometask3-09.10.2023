@@ -1,6 +1,5 @@
 package de.telran.homework3;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class task1 {
