@@ -1,8 +1,9 @@
 package homework8;
+
 import java.util.Arrays;
 import java.util.Random;
 
-    public class task1 {
+public class task3 {
         public static void main(String[] args) {
             int[] randomArr = generateRandomArr(8, 1, 50);
             replaceOddAndPrint(randomArr);
@@ -29,3 +30,5 @@ import java.util.Random;
 //Выведите массив на консоль в строку.
 //Замените каждый элемент с нечетным индексом на ноль.
 //Снова выведете массив на консоль в отдельной строке.
+
+
