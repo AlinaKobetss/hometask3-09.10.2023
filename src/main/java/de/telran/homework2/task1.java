@@ -24,20 +24,11 @@ public class task1 {
         System.out.println(strTemp.replace('A','O'));
 
 
-
         System.out.println(str1.toUpperCase());
         System.out.println(str1.toLowerCase());
 
-
-
-
-
-
-
-
     }
 }
-
 
 
 
